@@ -65,7 +65,6 @@ Make sure you have these installed:
 
 📽️ Demo Video
 
-
 <a href="https://www.youtube.com/watch?v=iJrSgH-I9l8" target="_blank" rel="noopener noreferrer"> <img src="https://img.youtube.com/vi/iJrSgH-I9l8/0.jpg" width="400" alt="Watch the video on YouTube"> </a>
 
 
