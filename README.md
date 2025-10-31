@@ -44,14 +44,15 @@ Make sure you have these installed:
 
 2. Setup the Backend
 
-  ```bash
-  cd backend
-  npm install
+    ```bash
+    cd backend
+    npm install
 
   ✏️ Create a .env file inside backend/:
 
-  MONGODB_URI=mongodb://localhost:27017/bioscope3d
-  PORT=5000
+    MONGODB_URI=mongodb://localhost:27017/bioscope3d
+    PORT=5000
+
 
 3. Setup the Frontend
 
@@ -60,8 +61,13 @@ Make sure you have these installed:
     npm install
     npm run dev
 
+
+
 📽️ Demo Video
 <a href="https://www.youtube.com/watch?v=iJrSgH-I9l8" target="_blank" rel="noopener noreferrer"> <img src="https://img.youtube.com/vi/iJrSgH-I9l8/0.jpg" width="400" alt="Watch the video on YouTube"> </a>
+
+
+
 🌐 Live Demo
 
 👉 <a href="https://bioscope-3-d-models.vercel.app/" target="_blank" rel="noopener noreferrer">
