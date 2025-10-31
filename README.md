@@ -75,7 +75,7 @@ Make sure you have these installed:
 
 🌐 Live Demo
 
-👉 <a href="https://bioscope-3-d-models.vercel.app/" target="_blank" rel="noopener noreferrer">
+👉 <a href="https://bioscope-3-d-model.vercel.app/" target="_blank" rel="noopener noreferrer">
 Click here to open the Live Demo
 </a>
 
