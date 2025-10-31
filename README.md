@@ -44,18 +44,18 @@ Make sure you have these installed:
 
 2. Setup the Backend
 
-```bash
+  ```bash
   cd backend
   npm install
 
-✏️ Create a .env file inside backend/:
+  ✏️ Create a .env file inside backend/:
 
   MONGODB_URI=mongodb://localhost:27017/bioscope3d
   PORT=5000
 
 3. Setup the Frontend
 
-  ```bash
+    ```bash
     cd ../frontend
     npm install
     npm run dev
