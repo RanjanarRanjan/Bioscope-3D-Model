@@ -27,13 +27,13 @@ const Spotlight = () => {
             <br /> Ideal for students, educators, and medical professionals.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <button
+            {/* <button
           
               className="bg-gray-800 hover:bg-gray-700 text-white px-6 py-3 rounded-md flex items-center gap-2"
             >
               Learn More
               <img src={arrow} alt="arrow" className="w-4 h-4" />
-            </button>
+            </button> */}
             <button
               onClick={() => navigate("/models")}
               className="bg-teal-500 hover:bg-teal-600 text-white px-6 py-3 rounded-md flex items-center gap-2"
