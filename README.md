@@ -61,19 +61,6 @@ Make sure you have these installed:
     npm install
     npm run dev
 
-<button
-  onClick={() => window.open("https://bioscope-3-d-model.vercel.app/", "_blank", "noopener,noreferrer")}
-  className="bg-blue-600 text-white px-4 py-2 rounded-lg"
->
-  Open Live Demo in New Window
-</button>
-
-<button
-  onClick={() => window.open("https://www.youtube.com/watch?v=iJrSgH-I9l8", "_blank", "noopener,noreferrer")}
-  className="bg-red-600 text-white px-4 py-2 rounded-lg ml-4"
->
-  Watch Demo Video
-</button>
 
 
 📽️ Demo Video
@@ -81,8 +68,6 @@ Make sure you have these installed:
 <a href="https://www.youtube.com/watch?v=iJrSgH-I9l8" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/iJrSgH-I9l8/0.jpg" width="400" alt="Watch the video on YouTube">
 </a>
-
-
 
 
 
